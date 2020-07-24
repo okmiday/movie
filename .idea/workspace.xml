@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7f3f76d3-74a0-406e-8613-e6c841cd2be7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/movie.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/movie.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/app/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/app/app.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/app/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/app/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/error-panel/error-panel.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/error-panel/error-panel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/error-panel/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/movie-card/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/movie-card/movie-card.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/movie-card/movie-card.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/movie-cards-panel/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/movie-cards-panel/movie-cards-panel.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/movie-cards-panel/movie-cards-panel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/pagination-panel/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/pagination-panel/pagination-panel.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/pagination-panel/pagination-panel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/rated-page/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/rated-page/rated-page.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/rated-page/rated-page.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/search-page/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/search-page/search-page.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/search-page/search-page.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/search-panel/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/search-panel/search-panel.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/search-panel/search-panel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/spinner/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/spinner/spinner.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/spinner/spinner.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/start-page/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/start-page/start-page.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/start-page/start-page.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/tabs-panel/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/tabs-panel/tabs-panel.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/tabs-panel/tabs-panel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-Black.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-Black.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-Black.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-Black.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-BlackItalic.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-BlackItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-BlackItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-BlackItalic.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-Bold.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-Bold.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-Bold.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-BoldItalic.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-BoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-BoldItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-BoldItalic.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-ExtraBold.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-ExtraBold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-ExtraBold.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-ExtraBold.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-ExtraBoldItalic.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-ExtraBoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-ExtraBoldItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-ExtraBoldItalic.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-ExtraLightBETA.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-ExtraLightBETA.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-ExtraLightBETA.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-ExtraLightBETA.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-ExtraLightItalicBETA.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-ExtraLightItalicBETA.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-ExtraLightItalicBETA.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-ExtraLightItalicBETA.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-Italic.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-Italic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-Italic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-Italic.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-LightBETA.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-LightBETA.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-LightBETA.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-LightBETA.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-LightItalicBETA.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-LightItalicBETA.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-LightItalicBETA.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-LightItalicBETA.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-Medium.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-Medium.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-Medium.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-Medium.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-MediumItalic.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-MediumItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-MediumItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-MediumItalic.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-Regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-Regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-Regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-SemiBold.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-SemiBold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-SemiBold.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-SemiBold.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-SemiBoldItalic.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-SemiBoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-SemiBoldItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-SemiBoldItalic.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-ThinBETA.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-ThinBETA.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-ThinBETA.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-ThinBETA.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-ThinItalicBETA.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-ThinItalicBETA.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-ThinItalicBETA.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-ThinItalicBETA.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/stylesheet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/movie-service/movie-service.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1f6RD4l08R48jdO5egW7Teu2AZq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\yadim\WebstormProjects\movie\node_modules\prettier" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\yadim\WebstormProjects\movie\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7f3f76d3-74a0-406e-8613-e6c841cd2be7" name="Default Changelist" comment="" />
+      <created>1595536432869</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595536432869</updated>
+      <workItem from="1595536438370" duration="720000" />
+      <workItem from="1595574361467" duration="12457000" />
+      <workItem from="1595599744224" duration="1032000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595578094351">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1680.0.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1595578094351" />
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom" timestamp="1595599657645">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom/-1680.0.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1595599657645" />
+    <state width="1899" height="282" key="GridCell.Tab.0.center" timestamp="1595599657645">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.center/-1680.0.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1595599657645" />
+    <state width="1899" height="282" key="GridCell.Tab.0.left" timestamp="1595599657645">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.left/-1680.0.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1595599657645" />
+    <state width="1899" height="282" key="GridCell.Tab.0.right" timestamp="1595599657645">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.right/-1680.0.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1595599657645" />
+  </component>
+</project>
