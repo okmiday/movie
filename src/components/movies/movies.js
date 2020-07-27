@@ -1,22 +1,16 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import './movies.css';
-import { Empty, Spin, Alert } from 'antd';
+import { Empty, Spin } from 'antd';
 import MovieBlock from '../movie-block';
+import ErrorAlert from '../error-alert';
 
-export default function Movies({ movieBlocksData, loading, error, errorMessage, rateMovie }) {
+export default function Movies({ movieBlocksData, loading, error, rateMovie }) {
   const getMovies = () => {
     if (error) {
-      const text = errorMessage === 'Failed to fetch' ? 'No internet connection' : 'Server error';
 
       return (
-        <Alert
-          style={{ marginTop: '50px', marginBottom: '100px' }}
-          message="Error:"
-          description={text}
-          type="error"
-          showIcon
-        />
+        <ErrorAlert />
       );
     }
 

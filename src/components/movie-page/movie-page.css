@@ -10,3 +10,12 @@
 .switch {
   margin-bottom: 16px;
 }
+
+.ant-tabs {
+  width: 100%;
+}
+
+.ant-tabs-nav-wrap {
+  display: flex;
+  justify-content: center;
+}

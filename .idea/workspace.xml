@@ -20,121 +20,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f3f76d3-74a0-406e-8613-e6c841cd2be7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/movie.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/movie.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/app/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/app/app.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/app/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/app/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/error-panel/error-panel.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/error-panel/error-panel.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/error-panel/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/movie-card/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/movie-card/movie-card.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/movie-card/movie-card.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/movie-cards-panel/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/movie-cards-panel/movie-cards-panel.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/movie-cards-panel/movie-cards-panel.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/pagination-panel/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/pagination-panel/pagination-panel.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/pagination-panel/pagination-panel.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/rated-page/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/rated-page/rated-page.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/rated-page/rated-page.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/search-page/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/search-page/search-page.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/search-page/search-page.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/search-panel/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/search-panel/search-panel.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/search-panel/search-panel.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/spinner/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/spinner/spinner.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/spinner/spinner.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/start-page/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/start-page/start-page.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/start-page/start-page.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/tabs-panel/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/tabs-panel/tabs-panel.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/tabs-panel/tabs-panel.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-Black.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-Black.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-Black.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-Black.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-BlackItalic.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-BlackItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-BlackItalic.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-BlackItalic.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-Bold.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-Bold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-Bold.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-Bold.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-BoldItalic.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-BoldItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-BoldItalic.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-BoldItalic.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-ExtraBold.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-ExtraBold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-ExtraBold.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-ExtraBold.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-ExtraBoldItalic.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-ExtraBoldItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-ExtraBoldItalic.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-ExtraBoldItalic.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-ExtraLightBETA.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-ExtraLightBETA.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-ExtraLightBETA.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-ExtraLightBETA.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-ExtraLightItalicBETA.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-ExtraLightItalicBETA.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-ExtraLightItalicBETA.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-ExtraLightItalicBETA.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-Italic.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-Italic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-Italic.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-Italic.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-LightBETA.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-LightBETA.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-LightBETA.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-LightBETA.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-LightItalicBETA.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-LightItalicBETA.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-LightItalicBETA.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-LightItalicBETA.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-Medium.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-Medium.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-Medium.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-Medium.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-MediumItalic.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-MediumItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-MediumItalic.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-MediumItalic.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-Regular.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-Regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-Regular.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-Regular.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-SemiBold.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-SemiBold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-SemiBold.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-SemiBold.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-SemiBoldItalic.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-SemiBoldItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-SemiBoldItalic.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-SemiBoldItalic.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-ThinBETA.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-ThinBETA.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-ThinBETA.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-ThinBETA.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-ThinItalicBETA.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-ThinItalicBETA.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-ThinItalicBETA.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fonts/Inter-ThinItalicBETA.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fonts/stylesheet.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/movie-service/movie-service.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/movie-page-rated/movie-page-rated.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/movie-page-rated/movie-page-rated.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/movie-page-search/movie-page-search.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/movie-page-search/movie-page-search.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/movie-page-search/movie-page-search.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/movie-page-search/movie-page-search.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/movie-page-selector/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/movie-page-selector/movie-page-selector.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/movie-page-selector/movie-page-selector.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/movie-page/movie-page.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/movie-page/movie-page.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/movie-page/movie-page.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/movie-page/movie-page.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/movies/movies.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/movies/movies.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/page-controller/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/page-controller/page-controller.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/page-controller/page-controller.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/movies-service.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/movies-service.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -200,7 +99,13 @@
       <updated>1595536432869</updated>
       <workItem from="1595536438370" duration="720000" />
       <workItem from="1595574361467" duration="12457000" />
-      <workItem from="1595599744224" duration="1032000" />
+      <workItem from="1595599744224" duration="4728000" />
+      <workItem from="1595654007429" duration="293000" />
+      <workItem from="1595654364283" duration="159000" />
+      <workItem from="1595654556018" duration="1841000" />
+      <workItem from="1595680866547" duration="11703000" />
+      <workItem from="1595782026575" duration="3020000" />
+      <workItem from="1595834505234" duration="2768000" />
     </task>
     <servers />
   </component>
@@ -224,21 +129,21 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1680.0.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1595578094351" />
-    <state width="1899" height="282" key="GridCell.Tab.0.bottom" timestamp="1595599657645">
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom" timestamp="1595789721383">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="282" key="GridCell.Tab.0.bottom/-1680.0.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1595599657645" />
-    <state width="1899" height="282" key="GridCell.Tab.0.center" timestamp="1595599657645">
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom/-1680.0.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1595789721383" />
+    <state width="1899" height="282" key="GridCell.Tab.0.center" timestamp="1595789721383">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="282" key="GridCell.Tab.0.center/-1680.0.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1595599657645" />
-    <state width="1899" height="282" key="GridCell.Tab.0.left" timestamp="1595599657645">
+    <state width="1899" height="282" key="GridCell.Tab.0.center/-1680.0.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1595789721383" />
+    <state width="1899" height="282" key="GridCell.Tab.0.left" timestamp="1595789721383">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="282" key="GridCell.Tab.0.left/-1680.0.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1595599657645" />
-    <state width="1899" height="282" key="GridCell.Tab.0.right" timestamp="1595599657645">
+    <state width="1899" height="282" key="GridCell.Tab.0.left/-1680.0.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1595789721383" />
+    <state width="1899" height="282" key="GridCell.Tab.0.right" timestamp="1595789721383">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="282" key="GridCell.Tab.0.right/-1680.0.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1595599657645" />
+    <state width="1899" height="282" key="GridCell.Tab.0.right/-1680.0.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1595789721383" />
   </component>
 </project>

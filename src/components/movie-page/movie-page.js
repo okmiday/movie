@@ -1,32 +1,46 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import './movie-page.css';
-import { Menu } from 'antd';
-import MoviePageSelector from '../movie-page-selector';
+import { Tabs } from 'antd';
+import MoviePageSearch from '../movie-page-search';
+import MoviePageRated from '../movie-page-rated';
+import MoviesService from '../../services/movies-service';
+
+const { TabPane } = Tabs;
 
 export default class MoviePage extends React.Component {
   state = {
     switchKeys: ['search'],
   };
 
-  onClickMenu = (evt) => {
-    this.setState({ switchKeys: [evt.key] });
-  };
+  m = new MoviesService();
+
+  callback(key) {
+    console.log(key);
+  }
 
   render() {
     const { guestSessionId } = this.props;
-    const { switchKeys } = this.state;
-    const { onClickMenu } = this;
 
     return (
       <div className="movie-page">
-        <div className="switch">
-          <Menu onClick={onClickMenu} selectedKeys={switchKeys} mode="horizontal">
-            <Menu.Item key="search">Search</Menu.Item>
-            <Menu.Item key="rated">Rated</Menu.Item>
-          </Menu>
-        </div>
-        <MoviePageSelector guestSessionId={guestSessionId} switchKeys={switchKeys} />
+        <Tabs defaultActiveKey="1" onChange={this.callback}>
+          <TabPane tab="Search" key="1">
+            <MoviePageSearch
+              getMovies={this.m.getMovies}
+              rateMovie={(id, vote) => this.m.rateMovie(guestSessionId, id, vote)}
+            />
+          </TabPane>
+          <TabPane tab="Rated" key="2">
+            <MoviePageRated
+              rateMovie={(id, vote) => this.m.rateMovie(guestSessionId, id, vote)}
+              getRatedMovies={() => this.m.getRatedMovies(guestSessionId)}
+            />
+          </TabPane>
+          <TabPane tab="Zagotovka" key="3">
+            Content of Tab Pane 3
+          </TabPane>
+        </Tabs>
       </div>
     );
   }

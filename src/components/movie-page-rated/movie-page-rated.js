@@ -11,10 +11,29 @@ export default class MoviePageRated extends React.Component {
     errorMessage: '',
   };
 
-  componentDidUpdate(prevProps) {
-    const { getRatedMovies, className } = this.props;
+  componentDidMount() {
+    this.props.getRatedMovies()
+      .then(({ movieBlocksData }) =>
+        this.setState({
+          loading: false,
+          error: false,
+          movieBlocksData,
+        })
+      )
+      .catch((error) =>
+        this.setState({
+          error: true,
+          errorMessage: error.message,
+        })
+      );
+  }
 
-    if (prevProps.className !== className) {
+  componentDidUpdate(prevProps, prevState) {
+    const { getRatedMovies } = this.props;
+    const { moviesBlocksData } = this.state;
+
+
+    if (prevState.moviesBlocksData === moviesBlocksData) {
       getRatedMovies()
         .then(({ movieBlocksData }) =>
           this.setState({
@@ -31,6 +50,7 @@ export default class MoviePageRated extends React.Component {
         );
     }
   }
+
 
   render() {
     const { className, rateMovie } = this.props;
@@ -51,7 +71,6 @@ export default class MoviePageRated extends React.Component {
 }
 
 MoviePageRated.propTypes = {
-  className: PropTypes.string.isRequired,
   getRatedMovies: PropTypes.func.isRequired,
   rateMovie: PropTypes.func.isRequired,
 };

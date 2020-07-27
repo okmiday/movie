@@ -2,7 +2,6 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import './movie-page-search.css';
 import { debounce } from 'lodash';
-import PageController from '../page-controller';
 import Movies from '../movies';
 
 export default class MoviePageSearch extends React.Component {
@@ -57,8 +56,8 @@ export default class MoviePageSearch extends React.Component {
   };
 
   render() {
-    const { totalPages, query, page, movieBlocksData, loading, error, errorMessage } = this.state;
-    const { onChangeQuery, onChangePage } = this;
+    const { query, movieBlocksData, loading, error, errorMessage } = this.state;
+    const { onChangeQuery } = this;
     const { className, rateMovie } = this.props;
 
     return (
@@ -77,7 +76,6 @@ export default class MoviePageSearch extends React.Component {
           errorMessage={errorMessage}
           rateMovie={rateMovie}
         />
-        <PageController total={totalPages} onChange={onChangePage} current={page} />
       </div>
     );
   }
@@ -86,5 +84,4 @@ export default class MoviePageSearch extends React.Component {
 MoviePageSearch.propTypes = {
   getMovies: PropTypes.func.isRequired,
   rateMovie: PropTypes.func.isRequired,
-  className: PropTypes.string.isRequired,
 };
