@@ -1,4 +1,4 @@
-Link to [Now.sh](https://movie-virid.vercel.app/) 
+Link to [Now.sh](https://movie-one.vercel.app/) 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
